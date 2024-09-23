@@ -12,7 +12,7 @@ Module 18 Challenge Assignment
 
 ### In the classification report, the accuracy of the model is indicating that the accuracy of making the correct choice whether to approve or disappove the loan, is near 75% in all classification fields, i.e. precision, recall, f1-score, etc.
 
-### My answers in the discussion session include the below thoughts and documentation...
+### My answers in the discussion section include the below thoughts and documentation...
 
 **1. Describe the data that you would need to collect to build a recommendation system to recommend student loan options for students. Explain why this data would be relevant and appropriate.**
 
